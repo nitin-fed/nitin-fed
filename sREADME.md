@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nitin Sharma
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning React, Redux, webpack, Jenkins
-- 📫 I will be reachable on nitin.fed@gmail.com
+- 📫 I am reachable on nitin.fed@gmail.com
 
 <!---
 nitin-fed/nitin-fed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
